@@ -2,10 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-<<<<<<< HEAD
-  "/dynamic": "pages/dynamic.js",
-  "/api/hello": "pages/api/hello.js"
-=======
-  "/": "pages/index.js"
->>>>>>> 592af5c7dd51f3bec9f9d63fe482c8bbd37c2ef4
+  "/": "pages/index.js",
+  "/api/hello": "pages/api/hello.js",
+  "/static": "pages/static.js"
 }
